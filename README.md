@@ -1,7 +1,3 @@
-# AllGpt – Android Chatbot
-
-Android chatbot app built with Kotlin, Google’s Gemini API and Firebase to handle real-time chat and backend data.
-
 
 ## Getting Started
 
